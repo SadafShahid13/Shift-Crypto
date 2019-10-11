@@ -1,6 +1,6 @@
 # Shift-Cryptography
 
-Encryption: f(p') = (p+k) mod 26 
+Encryption: f(p') = (p+k) mod 26 \n
 Decryption: f(p) = (p'-k) mod 26
 
 Here, p = positional value of alphabet in the original message 
